@@ -1,6 +1,6 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
+  "name": "ROYAL-KATSIC",
+  "description": "Its The King Around Here For You",
   "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SESSION ID",
       "required": true,
-      "value": ""
+      "value": "Gr5kHCjY#tamiw4fihTuJsGAKeDN2z2rIAAL1-mToTMT-UnkkXfo"
     },  
     
     "ALIVE_IMG": {
@@ -46,7 +46,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -64,38 +64,38 @@
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
       "required": true,
-      "value": "true"
+      "value": "false"
     
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "Your Bot Name",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "ROYAL-KATSIC"
     }, 
 
     "HEART_REACT": {
@@ -112,12 +112,12 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY ROYAL KATSIC"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү Royal Katsic"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
